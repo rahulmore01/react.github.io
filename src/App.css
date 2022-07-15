@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.red{
+  color: blue;
+  text-align: center;
+  background-color: red;
+  margin-right: 50px;
+  margin-left: 50px;
+  padding: 15px 15px 15px 15px;
+}
+#button{
+
+  background-color: #167729;
+  color: aqua;
+  size: 40px;
+}
